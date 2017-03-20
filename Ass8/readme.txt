@@ -2,7 +2,7 @@
 
 
 
-  	  Author: 	Kara Campbell
+  	  Author: 	
          Purpose: 	Chat application using TCP/IP sockets
  Compliation cmd: 	make
           Launch: 	./a8

@@ -1,7 +1,7 @@
 
 
 
-	  Author: 	Kara Campbell
+	  Author: 	
          Purpose: 	To collect cat information to create a linked 
 			list of CatType structures and then print them 
 			to the standard output in both forwards order 

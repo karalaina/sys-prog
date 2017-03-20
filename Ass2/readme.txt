@@ -1,6 +1,6 @@
 
 
-Author: Kara Campbell
+Author: 
 Purpose: To calculate the final grade of a student based on courses grading scheme and students grades. 
 Compilation command: gcc -o ass2 ass2.c
 Launch: ./ass2

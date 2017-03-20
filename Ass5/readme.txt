@@ -1,6 +1,6 @@
 
 
-            Author: 	Kara Campbell
+            Author: 	
            Purpose: 	To collect student and course information to 
 			create an array of StudentType structures and 
 			then print the array to the standard output

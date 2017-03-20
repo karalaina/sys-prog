@@ -1,7 +1,7 @@
 
 
 
-	    Author: 	Kara Campbell
+	    Author: 	
            Purpose: 	To collect cat information to create an array of 
 			CatType structures and then print the array to the 
 			standard output

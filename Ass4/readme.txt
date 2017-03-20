@@ -1,6 +1,6 @@
 
 
-         Author:    Kara Campbell
+         Author:    
         Purpose:    To collect movie data from the user in order 
 		    to create an array of MovieType structures and 
 		    then print the array to the standard output

@@ -1,6 +1,6 @@
 
 
-Author: Kara Campbell
+Author:
 Purpose: To add/remove integers to/from an array and print 
          the contents of the array
 Compilation command: gcc -o assign1 assign1.c
